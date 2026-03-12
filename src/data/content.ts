@@ -1,6 +1,6 @@
 export const projects = [
   {
-    icon: '🏗️',
+    icon: 'Layers',
     name: 'clean-ddd',
     descPt: 'Implementação de Domain-Driven Design com Clean Architecture em TypeScript.',
     descEn: 'Domain-Driven Design implementation with Clean Architecture in TypeScript.',
@@ -8,7 +8,7 @@ export const projects = [
     link: 'https://github.com/sabinorush/04-clean-ddd',
   },
   {
-    icon: '⚡',
+    icon: 'Zap',
     name: 'nest-clean',
     descPt: 'API REST completa com NestJS seguindo princípios de Clean Architecture.',
     descEn: 'Complete REST API with NestJS following Clean Architecture principles.',
@@ -16,7 +16,7 @@ export const projects = [
     link: 'https://github.com/sabinorush/05-nest-clean',
   },
   {
-    icon: '🚀',
+    icon: 'Rocket',
     name: 'api-rest-nodejs',
     descPt: 'API REST construída com Node.js, com foco em boas práticas e performance.',
     descEn: 'REST API built with Node.js, focused on best practices and performance.',
@@ -24,7 +24,7 @@ export const projects = [
     link: 'https://github.com/sabinorush/02-api-rest-nodejs',
   },
   {
-    icon: '🎯',
+    icon: 'Target',
     name: 'api-solid',
     descPt: 'API desenvolvida aplicando os princípios SOLID com Node.js e TypeScript.',
     descEn: 'API developed applying SOLID principles with Node.js and TypeScript.',
@@ -48,8 +48,18 @@ export const softSkills = [
 ]
 
 export const courses = [
-  // SUBSTITUIR: adicionar seus cursos reais aqui
   { name: { pt: 'Nome do Curso', en: 'Course Name' }, org: 'Instituição', year: 'Ano' },
   { name: { pt: 'Nome do Curso', en: 'Course Name' }, org: 'Instituição', year: 'Ano' },
   { name: { pt: 'Nome do Curso', en: 'Course Name' }, org: 'Instituição', year: 'Ano' },
+]
+
+export const techIconSlugs = [
+  'javascript', 'typescript', 'nodedotjs', 'nestjs', 'react',
+  'nextdotjs', 'postgresql', 'mysql', 'docker', 'vite', 'git',
+]
+
+export const stats = [
+  { labelPt: 'Projetos', labelEn: 'Projects', value: 4 },
+  { labelPt: 'Tecnologias', labelEn: 'Technologies', value: 17 },
+  { labelPt: 'Anos Codando', labelEn: 'Years Coding', value: 5 },
 ]

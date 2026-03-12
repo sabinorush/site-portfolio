@@ -1,0 +1,9 @@
+name = "portfolio-site"
+type = "javascript"
+account_id = ""
+workers_dev = true
+routes = []
+zone_id = ""
+
+[env.production]
+name = "portfolio-site"

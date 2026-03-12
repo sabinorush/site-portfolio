@@ -13,7 +13,12 @@
       "mcp__magicui__listRegistryItems",
       "mcp__magicui__searchRegistryItems",
       "Bash(npm install:*)",
-      "Bash(npx shadcn@latest init -d -y)"
+      "Bash(npx shadcn@latest init -d -y)",
+      "Bash(npx shadcn@latest add button card badge separator navigation-menu sheet tooltip input label textarea -y)",
+      "Bash(npx shadcn@latest add \"https://magicui.design/r/blur-fade\" \"https://magicui.design/r/hyper-text\" \"https://magicui.design/r/aurora-text\" \"https://magicui.design/r/dock\" \"https://magicui.design/r/magic-card\" \"https://magicui.design/r/border-beam\" -y)",
+      "Bash(npx shadcn@latest add \"https://magicui.design/r/particles\" \"https://magicui.design/r/marquee\" \"https://magicui.design/r/icon-cloud\" \"https://magicui.design/r/number-ticker\" \"https://magicui.design/r/dot-pattern\" \"https://magicui.design/r/interactive-hover-button\" -y)",
+      "Bash(npx shadcn@latest add \"https://magicui.design/r/bento-grid\" \"https://magicui.design/r/neon-gradient-card\" \"https://magicui.design/r/retro-grid\" \"https://magicui.design/r/scroll-progress\" \"https://magicui.design/r/shimmer-button\" \"https://magicui.design/r/text-animate\" -y)",
+      "Bash(npx shadcn@latest add \"https://magicui.design/r/bento-grid\" \"https://magicui.design/r/neon-gradient-card\" \"https://magicui.design/r/retro-grid\" \"https://magicui.design/r/scroll-progress\" \"https://magicui.design/r/shimmer-button\" \"https://magicui.design/r/text-animate\" -y --overwrite)"
     ]
   }
 }
