@@ -155,6 +155,7 @@ function NavigationMenuIndicator({
   )
 }
 
+/* eslint-disable react-refresh/only-export-components */
 export {
   NavigationMenu,
   NavigationMenuContent,
@@ -166,3 +167,4 @@ export {
   navigationMenuTriggerStyle,
   NavigationMenuPositioner,
 }
+/* eslint-enable react-refresh/only-export-components */
