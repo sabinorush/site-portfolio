@@ -8,7 +8,12 @@
       "WebFetch(domain:api.github.com)",
       "WebFetch(domain:github.com)",
       "Bash(claude mcp add magicui -- npx -y @magicuidesign/mcp@latest)",
-      "WebSearch"
+      "WebSearch",
+      "mcp__shadcn__list_items_in_registries",
+      "mcp__magicui__listRegistryItems",
+      "mcp__magicui__searchRegistryItems",
+      "Bash(npm install:*)",
+      "Bash(npx shadcn@latest init -d -y)"
     ]
   }
 }
